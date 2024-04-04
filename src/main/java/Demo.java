@@ -7,12 +7,9 @@ public class Demo implements Runnable {
     private static TicketStore ticketStore = TicketStore.getInstance();
     // CONEXIONES
 
-
-
-
     @Override
     public void run() {
-
+        // hola
     }
 
 
